@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SkyX Admin — Verification Queue</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css', v='4') }}">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark-css">X</div>
+    <div>
+      <h1>SkyX <span class="brand-tagline-inline">Admin</span></h1>
+      <span class="subtitle">Review AI-flagged reports · override classification &amp; verification</span>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <a class="admin-link" href="/"><span aria-hidden="true">←</span> Back to dashboard</a>
+  </div>
+</header>
+
+<main class="admin-layout">
+  <section class="filters-panel">
+    <h3>Queue</h3>
+    <label>Show
+      <select id="a-status">
+        <option value="pending_review">Pending review</option>
+        <option value="flagged_fake">Flagged fake</option>
+        <option value="duplicate">Duplicates</option>
+        <option value="verified">Verified (AI)</option>
+        <option value="verified_by_imd">Verified by IMD</option>
+        <option value="">All</option>
+      </select>
+    </label>
+    <button id="a-refresh">Refresh</button>
+    <div class="kpi-block">
+      <div class="kpi"><span id="a-total">–</span><small>In queue</small></div>
+    </div>
+  </section>
+
+  <section class="admin-table-panel">
+    <table id="admin-table">
+      <thead>
+        <tr>
+          <th>Time</th><th>Event (predicted)</th><th>Location</th><th>Source</th>
+          <th>Credibility</th><th>Fake score</th><th>IMD match</th><th>Dup of</th><th>Status</th><th>Text</th><th>Actions</th>
+        </tr>
+      </thead>
+      <tbody id="admin-body"></tbody>
+    </table>
+  </section>
+</main>
+
+<script src="{{ url_for('static', filename='admin.js') }}"></script>
+</body>
+</html>

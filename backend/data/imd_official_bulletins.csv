@@ -1,0 +1,74 @@
+bulletin_id,date,state,district,event_type,severity,note
+IMD-2026-09-01-NEW,2026-09-01,Delhi,New Delhi,rainfall,moderate,heavy rain and thunderstorms with gusty winds near 40 kmph
+IMD-2026-09-01-DWA,2026-09-01,Delhi,Dwarka,rainfall,moderate,heavy rain and thunderstorms with gusty winds near 40 kmph
+IMD-2026-09-01-ROH,2026-09-01,Delhi,Rohini,rainfall,moderate,heavy rain and thunderstorms with gusty winds near 40 kmph
+IMD-2026-09-01-KAR,2026-09-01,Delhi,Karol Bagh,rainfall,moderate,heavy rain and thunderstorms with gusty winds near 40 kmph
+IMD-2026-09-01-GHA,2026-09-01,Uttar Pradesh,Ghaziabad,rainfall,moderate,heavy rain and strong winds across western and central UP
+IMD-2026-09-01-MEE,2026-09-01,Uttar Pradesh,Meerut,rainfall,moderate,heavy rain and strong winds across western and central UP
+IMD-2026-09-01-MOR,2026-09-01,Uttar Pradesh,Moradabad,rainfall,moderate,heavy rain and strong winds across western and central UP
+IMD-2026-09-01-KAN,2026-09-01,Uttar Pradesh,Kanpur,rainfall,moderate,heavy rain and strong winds across western and central UP
+IMD-2026-09-01-LUC,2026-09-01,Uttar Pradesh,Lucknow,rainfall,moderate,heavy rain and strong winds across western and central UP
+IMD-2026-09-02-RAI,2026-09-02,Chhattisgarh,Raipur,flood,severe,"extremely heavy rainfall triggering flash flood warning, over 200mm in isolated pockets"
+IMD-2026-09-02-RAI,2026-09-02,Chhattisgarh,Raigarh,flood,severe,"extremely heavy rainfall triggering flash flood warning, over 200mm in isolated pockets"
+IMD-2026-09-02-KOR,2026-09-02,Chhattisgarh,Korba,flood,severe,"extremely heavy rainfall triggering flash flood warning, over 200mm in isolated pockets"
+IMD-2026-09-02-JAS,2026-09-02,Chhattisgarh,Jashpur,flood,severe,"extremely heavy rainfall triggering flash flood warning, over 200mm in isolated pockets"
+IMD-2026-09-02-BAL,2026-09-02,Chhattisgarh,Balrampur,flood,severe,"extremely heavy rainfall triggering flash flood warning, over 200mm in isolated pockets"
+IMD-2026-09-02-SUR,2026-09-02,Chhattisgarh,Surguja,flood,severe,"extremely heavy rainfall triggering flash flood warning, over 200mm in isolated pockets"
+IMD-2026-09-02-BAL,2026-09-02,Odisha,Balasore,flood,severe,flash flood risk from widespread heavy rain and 40-50 kmph winds
+IMD-2026-09-02-MAY,2026-09-02,Odisha,Mayurbhanj,flood,severe,flash flood risk from widespread heavy rain and 40-50 kmph winds
+IMD-2026-09-02-KEO,2026-09-02,Odisha,Keonjhar,flood,severe,flash flood risk from widespread heavy rain and 40-50 kmph winds
+IMD-2026-09-02-SUN,2026-09-02,Odisha,Sundargarh,flood,severe,flash flood risk from widespread heavy rain and 40-50 kmph winds
+IMD-2026-09-02-SAM,2026-09-02,Odisha,Sambalpur,flood,severe,flash flood risk from widespread heavy rain and 40-50 kmph winds
+IMD-2026-09-03-BHO,2026-09-03,Madhya Pradesh,Bhopal,rainfall,severe,isolated extremely heavy rainfall over east Madhya Pradesh under a well-marked low
+IMD-2026-09-03-JAB,2026-09-03,Madhya Pradesh,Jabalpur,rainfall,severe,isolated extremely heavy rainfall over east Madhya Pradesh under a well-marked low
+IMD-2026-09-03-SAG,2026-09-03,Madhya Pradesh,Sagar,rainfall,severe,isolated extremely heavy rainfall over east Madhya Pradesh under a well-marked low
+IMD-2026-09-03-REW,2026-09-03,Madhya Pradesh,Rewa,rainfall,severe,isolated extremely heavy rainfall over east Madhya Pradesh under a well-marked low
+IMD-2026-09-03-SAT,2026-09-03,Madhya Pradesh,Satna,rainfall,severe,isolated extremely heavy rainfall over east Madhya Pradesh under a well-marked low
+IMD-2026-09-03-KOL,2026-09-03,West Bengal,Kolkata,rainfall,moderate,isolated to fairly widespread rain with thunderstorm and lightning
+IMD-2026-09-03-HOW,2026-09-03,West Bengal,Howrah,rainfall,moderate,isolated to fairly widespread rain with thunderstorm and lightning
+IMD-2026-09-03-KHA,2026-09-03,West Bengal,Kharagpur,rainfall,moderate,isolated to fairly widespread rain with thunderstorm and lightning
+IMD-2026-09-03-MAL,2026-09-03,West Bengal,Malda,rainfall,moderate,isolated to fairly widespread rain with thunderstorm and lightning
+IMD-2026-09-04-RAN,2026-09-04,Jharkhand,Ranchi,rainfall,moderate,scattered rainfall with thunderstorm and lightning
+IMD-2026-09-04-JAM,2026-09-04,Jharkhand,Jamshedpur,rainfall,moderate,scattered rainfall with thunderstorm and lightning
+IMD-2026-09-04-DHA,2026-09-04,Jharkhand,Dhanbad,rainfall,moderate,scattered rainfall with thunderstorm and lightning
+IMD-2026-09-05-NEW,2026-09-05,Delhi,New Delhi,rainfall,severe,fairly widespread to widespread rain with thunderstorm and lightning over Delhi-NCR
+IMD-2026-09-05-NOI,2026-09-05,Delhi,Noida,rainfall,severe,fairly widespread to widespread rain with thunderstorm and lightning over Delhi-NCR
+IMD-2026-09-05-GUR,2026-09-05,Delhi,Gurugram,rainfall,severe,fairly widespread to widespread rain with thunderstorm and lightning over Delhi-NCR
+IMD-2026-09-05-DEH,2026-09-05,Uttarakhand,Dehradun,rainfall,severe,"widespread rain with thunderstorm continuing through the week, landslide-prone hill stretches"
+IMD-2026-09-05-HAR,2026-09-05,Uttarakhand,Haridwar,rainfall,severe,"widespread rain with thunderstorm continuing through the week, landslide-prone hill stretches"
+IMD-2026-09-05-NAI,2026-09-05,Uttarakhand,Nainital,rainfall,severe,"widespread rain with thunderstorm continuing through the week, landslide-prone hill stretches"
+IMD-2026-09-05-RUD,2026-09-05,Uttarakhand,Rudraprayag,rainfall,severe,"widespread rain with thunderstorm continuing through the week, landslide-prone hill stretches"
+IMD-2026-09-05-JAM,2026-09-05,Jammu and Kashmir,Jammu,rainfall,moderate,fairly widespread rain with thunderstorm and lightning
+IMD-2026-09-05-SRI,2026-09-05,Jammu and Kashmir,Srinagar,rainfall,moderate,fairly widespread rain with thunderstorm and lightning
+IMD-2026-09-05-UDH,2026-09-05,Jammu and Kashmir,Udhampur,rainfall,moderate,fairly widespread rain with thunderstorm and lightning
+IMD-2026-09-05-JAI,2026-09-05,Rajasthan,Jaipur,rainfall,moderate,widespread rain over east Rajasthan with thunderstorm activity
+IMD-2026-09-05-KOT,2026-09-05,Rajasthan,Kota,rainfall,moderate,widespread rain over east Rajasthan with thunderstorm activity
+IMD-2026-09-05-UDA,2026-09-05,Rajasthan,Udaipur,rainfall,moderate,widespread rain over east Rajasthan with thunderstorm activity
+IMD-2026-09-05-ALW,2026-09-05,Rajasthan,Alwar,rainfall,moderate,widespread rain over east Rajasthan with thunderstorm activity
+IMD-2026-09-05-RAT,2026-09-05,Maharashtra,Ratnagiri,rainfall,moderate,fairly widespread to widespread rain over Konkan and Goa
+IMD-2026-09-05-SIN,2026-09-05,Maharashtra,Sindhudurg,rainfall,moderate,fairly widespread to widespread rain over Konkan and Goa
+IMD-2026-09-05-PAN,2026-09-05,Maharashtra,Panaji,rainfall,moderate,fairly widespread to widespread rain over Konkan and Goa
+IMD-2026-09-05-MAR,2026-09-05,Maharashtra,Margao,rainfall,moderate,fairly widespread to widespread rain over Konkan and Goa
+IMD-2026-09-06-PAT,2026-09-06,Bihar,Patna,rainfall,moderate,isolated to scattered rain with thunderstorm and lightning
+IMD-2026-09-06-GAY,2026-09-06,Bihar,Gaya,rainfall,moderate,isolated to scattered rain with thunderstorm and lightning
+IMD-2026-09-06-MUZ,2026-09-06,Bihar,Muzaffarpur,rainfall,moderate,isolated to scattered rain with thunderstorm and lightning
+IMD-2026-09-07-GUW,2026-09-07,Assam,Guwahati,flood,moderate,waterlogging and localised flooding after continuous rain
+IMD-2026-09-07-DIB,2026-09-07,Assam,Dibrugarh,flood,moderate,waterlogging and localised flooding after continuous rain
+IMD-2026-09-07-SIL,2026-09-07,Assam,Silchar,flood,moderate,waterlogging and localised flooding after continuous rain
+IMD-2026-09-05-AHM,2026-09-05,Gujarat,Ahmedabad,rainfall,moderate,isolated to scattered rain over Gujarat region and Saurashtra-Kutch
+IMD-2026-09-05-SUR,2026-09-05,Gujarat,Surat,rainfall,moderate,isolated to scattered rain over Gujarat region and Saurashtra-Kutch
+IMD-2026-09-05-RAJ,2026-09-05,Gujarat,Rajkot,rainfall,moderate,isolated to scattered rain over Gujarat region and Saurashtra-Kutch
+IMD-2026-05-28-JAI,2026-05-28,Rajasthan,Jaisalmer,heatwave,severe,severe heatwave with maximum temperatures crossing 47C
+IMD-2026-05-28-BIK,2026-05-28,Rajasthan,Bikaner,heatwave,severe,severe heatwave with maximum temperatures crossing 47C
+IMD-2026-05-28-BAR,2026-05-28,Rajasthan,Barmer,heatwave,severe,severe heatwave with maximum temperatures crossing 47C
+IMD-2026-05-30-PRA,2026-05-30,Uttar Pradesh,Prayagraj,heatwave,moderate,heatwave conditions with hot and dry westerly winds
+IMD-2026-05-30-BAN,2026-05-30,Uttar Pradesh,Banda,heatwave,moderate,heatwave conditions with hot and dry westerly winds
+IMD-2026-05-30-JHA,2026-05-30,Uttar Pradesh,Jhansi,heatwave,moderate,heatwave conditions with hot and dry westerly winds
+IMD-2026-06-02-JOD,2026-06-02,Rajasthan,Jodhpur,dust_storm,moderate,dust raising winds reducing visibility to under 500m
+IMD-2026-06-02-BIK,2026-06-02,Rajasthan,Bikaner,dust_storm,moderate,dust raising winds reducing visibility to under 500m
+IMD-2026-06-04-NEW,2026-06-04,Delhi,New Delhi,dust_storm,moderate,"dust storm followed by a brief spell of rain, visibility dropped sharply"
+IMD-2026-06-04-DWA,2026-06-04,Delhi,Dwarka,dust_storm,moderate,"dust storm followed by a brief spell of rain, visibility dropped sharply"
+IMD-2026-01-14-AMR,2026-01-14,Punjab,Amritsar,cold_wave,moderate,"dense fog and cold wave conditions, minimum temperature near 4C"
+IMD-2026-01-14-LUD,2026-01-14,Punjab,Ludhiana,cold_wave,moderate,"dense fog and cold wave conditions, minimum temperature near 4C"
+IMD-2026-01-16-HIS,2026-01-16,Haryana,Hisar,cold_wave,moderate,cold day conditions with dense fog affecting visibility
+IMD-2026-01-16-KAR,2026-01-16,Haryana,Karnal,cold_wave,moderate,cold day conditions with dense fog affecting visibility
