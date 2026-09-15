@@ -189,4 +189,8 @@ so the dashboard is populated immediately.
   network-level signals too (repost velocity, account age, coordinated
   posting patterns) — not implemented here.
 - Twitter/X ingestion requires a paid API tier as of this build; it is
+<<<<<<< HEAD
   wired in and ready but not part of the default free-tier demo path
+=======
+  wired in and ready but not part of the default free-tier demo path.
+>>>>>>> af5d766db6c535ab45d10d7b40aa659e6b66c462
