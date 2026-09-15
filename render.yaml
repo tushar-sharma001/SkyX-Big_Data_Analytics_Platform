@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: skyx-weather-platform
+    env: python
+    plan: free
+    buildCommand: >
+      pip install -r requirements.txt &&
+      python3 backend/data/build_dataset.py &&
+      python3 backend/ml/pipeline.py
+    startCommand: gunicorn -w 1 --chdir backend --timeout 120 -b 0.0.0.0:$PORT app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.0
